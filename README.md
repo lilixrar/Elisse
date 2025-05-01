@@ -1,5 +1,10 @@
 # A readme file about me 🌻
 
+### Hi! I’m Elisse a.k.a. Lili
+
+### I’m a professional architect who wanted to work on IT Quality Assurance. I briefly tried out working as a Graphic Designer too. 
+### I'm currently studying Automation.
+
 ## My interests are:
 ### 🦄 gaming
 ### 🍿 some anime
