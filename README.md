@@ -4,7 +4,7 @@
 
 ### I’m a professional architect who wanted to work on IT Quality Assurance. I briefly tried out working as a Graphic Designer too. Both my previous experience allowed me to enjoy seeing and working on cohesiveness, details, and beauty in design.
 
-### I'm currently studying Test Automation.
+### I'm currently gearing up for comprehensive Test Automation.
 
 ## My interests are:
 ### 🦄 gaming
